@@ -22,8 +22,8 @@ https://colab.research.google.com/github/your-username/ising-phase-classifier/bl
 
 | File | Description |
 |------|-------------|
-| `ising_model.py` | Contains Ising model simulation (Metropolis method) and model definition |
-| `model.h5` | Pretrained model (optional: can be trained in Colab too) |
+| `isingclassification.py` | Contains Ising model simulation (Metropolis method) and model definition |
+| `model.h5` | Pretrained model (can be trained in Colab too) |
 | `demo.ipynb` | Google Colab-compatible notebook for demonstration |
 | `assets/` | Sample spin images and output graphs |
 | `requirements.txt` | Library dependencies (not needed in Colab) |
