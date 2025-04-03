@@ -1,4 +1,4 @@
-# 🧠 Ising Phase Classifier: CNN-based 2D Ising Model Phase Detection
+# Ising Phase Classifier: CNN-based 2D Ising Model Phase Detection
 
 This project demonstrates a simple convolutional neural network (CNN) to classify spin configurations of the 2D Ising model into **ordered (low-temperature)** and **disordered (high-temperature)** phases based only on visual spin patterns.
 
@@ -9,13 +9,7 @@ This project demonstrates a simple convolutional neural network (CNN) to classif
 
 ---
 
-## 🔬 Motivation
-
-Phase transitions are fundamental in physics. This demo shows that a CNN can detect the phase transition of the 2D Ising model **without explicit knowledge of physical quantities** such as energy or magnetization — it learns directly from spin images.
-
----
-
-## 🚀 Try it in Google Colab
+## Try it in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/your-username/ising-phase-classifier/blob/main/demo.ipynb)
@@ -24,7 +18,7 @@ https://colab.research.google.com/github/your-username/ising-phase-classifier/bl
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -36,7 +30,7 @@ https://colab.research.google.com/github/your-username/ising-phase-classifier/bl
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ### Spin Configurations
 
@@ -55,7 +49,7 @@ At low and high temperatures:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python (NumPy, Matplotlib)
 - TensorFlow / Keras
@@ -63,13 +57,7 @@ At low and high temperatures:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The model is trained in a **supervised** fashion using temperature-based labels.
 - Future work may include **unsupervised detection of the phase transition** using clustering or dimensionality reduction.
-
----
-
-## 📜 License
-
-MIT License.
