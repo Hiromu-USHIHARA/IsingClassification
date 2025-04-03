@@ -3,8 +3,8 @@
 This project demonstrates a simple convolutional neural network (CNN) to classify spin configurations of the 2D Ising model into **ordered (low-temperature)** and **disordered (high-temperature)** phases based only on visual spin patterns.
 
 <p align="center">
-  <img src="images/spin_example.png" alt="Spin configuration example" width="250"/>
-  <img src="images/model.png" alt="Network used in prediction" width="400"/>
+  <img src="images/spin_example.png" alt="Spin configuration example" width="400"/>
+  <img src="images/model.png" alt="Network used in prediction" width="250"/>
 </p>
 
 ---
