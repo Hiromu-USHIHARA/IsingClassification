@@ -12,7 +12,7 @@ This project demonstrates a simple convolutional neural network (CNN) to classif
 ## Try it in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/your-username/ising-phase-classifier/blob/main/demo.ipynb)
+https://colab.research.google.com/github/Hiromu-USHIHARA/IsingClassification/blob/main/demo.ipynb)
 
 > You can generate spin configurations at various temperatures and let the model predict the phase!
 
