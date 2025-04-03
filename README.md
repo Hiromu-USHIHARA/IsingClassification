@@ -4,7 +4,7 @@ This project demonstrates a simple convolutional neural network (CNN) to classif
 
 <p align="center">
   <img src="images/spin_example.png" alt="Spin configuration example" width="250"/>
-  <img src="images/transition_plot.png" alt="Phase transition prediction" width="400"/>
+  <img src="images/model.png" alt="Network used in prediction" width="400"/>
 </p>
 
 ---
