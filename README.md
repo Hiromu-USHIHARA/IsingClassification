@@ -25,7 +25,7 @@ https://colab.research.google.com/github/Hiromu-USHIHARA/IsingClassification/blo
 | `isingclassification.py` | Contains Ising model simulation (Metropolis method) and model definition |
 | `model.h5` | Pretrained model (can be trained in Colab too) |
 | `demo.ipynb` | Google Colab-compatible notebook for demonstration |
-| `assets/` | Sample spin images and output graphs |
+| `images/` | Sample spin images and output graphs |
 | `requirements.txt` | Library dependencies (not needed in Colab) |
 
 ---
