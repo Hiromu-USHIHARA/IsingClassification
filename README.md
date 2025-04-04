@@ -61,4 +61,5 @@ At low and high temperatures:
 
 - The model is trained in a **supervised** fashion using temperature-based labels.
 - Future work may include **unsupervised detection of the phase transition** using clustering or dimensionality reduction.
+  * This one!
 - Created by Ushihara as a side project for learning and exploration.
